@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.aParent{
+    float: left;
+    clear: none;
+}
+.wide-75{
+    width: 75%;
+}
+.list-style-none{
+    list-style-type: none;
+
+}
+.footer-txt-clr{
+    color:rgb(128,150,148);
+    font-weight: bolder;
+    font-family: 'Comic Sans MS';
+}
+.wide-25{
+    width: 125%;
+}
+#newsletter{
+    background-color: white;
+
+}
+@media screen and (max-width:884px){
+    #big-screen{
+        display: none !important;
+    }
+    /* #small-screen{
+        display: block !important;
+    } */
+}
+
+@media screen and (min-width:885px){
+    #small-screen{
+        display: none !important;
+    }
+}
+.color-1{
+    font-size: 18px;
+    color: rgb(15,141,189);
+    font-family:'Comic Sans MS';
+    font-weight: bolder;
+
+}
+.form-control{
+    width: 10%;
+}

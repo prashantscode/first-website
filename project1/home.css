@@ -1,0 +1,193 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:  rgb(21, 140, 182);
+}
+
+.navbar-brand{
+    text:bold;
+}
+.btn{
+    margin-right: 100px;
+    border-radius: 2px;
+}
+.form{
+    padding-left: 10px;
+}
+.heading{
+    font-family: 'Comic Sans MS';
+    color: rgb(7, 8, 197);
+    text-align: left;
+    margin-left: 20%;
+    font-size: 25px;
+    font-weight: bolder ;
+}
+.stay{
+    color:rgb(126, 194, 217);
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: lighter;
+    
+}
+.home{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    width: 100%;
+}
+.d-flex{
+    display: flex;
+}
+.img2{
+    width: 20%;
+    height: auto;
+    object-fit:cover;
+}
+
+.c1{
+    background-color: rgb(183,227,240);
+    border-style: solid;
+    border-color: lightblue;
+   border-radius: 5px;
+   margin-right: 10px;
+   border-width: 2px;
+   border-style:outset;
+      
+   
+  
+}
+.r{
+    color: rgb(14, 145, 191) ;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 20px;
+    font-family:'Comic Sans MS';
+}
+.t{
+    color: rgb(122, 160, 231) ;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 15px;
+    margin-top: -20px;
+    font-family:'Comic Sans MS';
+
+}
+.heading1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(7, 8, 197);
+    margin-top: 100px;
+    font-family: 'Comic Sans MS';
+    font-weight:bolder;
+}
+.c2{
+    background-color: rgb(183,227,240);
+    border-style: solid;
+    border-color: lightblue;
+   border-radius: 9px;
+   margin-right: 6px;
+   border-width: 2px;
+   border-style:outset;
+   margin-top: 30px;
+}  
+.c3{
+    background-color: rgb(183,227,240);
+    border-style: solid;
+    border-color: lightblue;
+   border-radius: 9px;
+   margin-right: 6px;
+   border-width: 2px;
+   border-style:outset;
+   margin-top: 20px;
+}  
+
+.text-center{
+    text-align: center;
+}
+.d{
+    color: rgb(128,150,148);
+    font-size: 15px;
+    text-align: center;
+    font-family:'Comic Sans MS';
+    font-weight: bolder;
+}
+.a1{
+    align-items: center;
+    margin-top: 100px;
+}
+.c5{
+    background-color: rgb(183,227,240);
+    border-style: solid;
+    border-color: lightblue;
+   border-radius: 5px;
+   margin-right: 10px;
+   border-width: 2px;
+   border-style:outset;
+   border-top: 100px;
+   font-weight: bolder;
+      
+}
+.z{
+    margin-bottom:-10px;
+    margin-top: 30px;
+    font-size: 20px;
+    color: rgb(15,141,189);
+    font-family:'Comic Sans MS';
+    font-weight: bolder;
+}
+.v{
+    font-size: 15px;
+    color: rgb(128,150,148);
+    font-family:'Comic Sans MS';
+    font-weight: bolder;
+} 
+.text{
+    margin-bottom:-10px;
+    margin-top: 30px;
+    font-size: 15px;
+    color: rgb(15,141,189);
+    font-family:'Comic Sans MS';
+    font-weight: bolder;
+    font-size: 19px;
+    
+}
+.list
+{
+    font-size: 15px;
+    color: rgb(128,150,148);
+    font-family:'Comic Sans MS';
+    font-weight: bolder;
+}
+.text1{
+    font-size: 15px;
+    color: rgb(128,150,148);
+    font-family:'Comic Sans MS';
+    font-weight: bolder;
+    margin-right: 900px;
+}
+.c4{
+    border-style:solid;
+    border-color: white;
+    background-color:white;
+    border-width: 40%;
+    box-shadow: outset;
+    border-width:- 100px;
+    border-right-width: 20px;
+    width: fit-content;
+    font-size: 15px;
+}
+.ul{
+    list-style-type: disc;
+}
+.text-center{
+    text-align: center;
+}
+
+.texta{
+    color: rgb(128,150,148);
+    font-weight:bold;
+    font-size: 15px;
+    font-family:'Comic Sans MS';
+}
